@@ -1,0 +1,9 @@
+C:\Users\usuario\Documents\junior-workspace\WinAppFirst\obj\Debug\WinAppFirst.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\junior-workspace\WinAppFirst\obj\Debug\WinAppFirst.Properties.Resources.resources
+C:\Users\usuario\Documents\junior-workspace\WinAppFirst\obj\Debug\WinAppFirst.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\junior-workspace\WinAppFirst\bin\Debug\WinAppFirst.exe.config
+C:\Users\usuario\Documents\junior-workspace\WinAppFirst\bin\Debug\WinAppFirst.exe
+C:\Users\usuario\Documents\junior-workspace\WinAppFirst\bin\Debug\WinAppFirst.pdb
+C:\Users\usuario\Documents\junior-workspace\WinAppFirst\obj\Debug\WinAppFirst.exe
+C:\Users\usuario\Documents\junior-workspace\WinAppFirst\obj\Debug\WinAppFirst.pdb
+C:\Users\usuario\Documents\junior-workspace\WinAppFirst\obj\Debug\WinAppFirst.principal.resources
